@@ -1,0 +1,18 @@
+#footer{
+    background-color: rgba(0,0,0,.8);
+}
+#footer a{
+    color: rgba(255, 255, 255, 0.8);
+}
+#myContainer{
+    height: 100vh;
+    font-family: 'Courgette', cursive;;
+}
+#myContainer ul li a:hover{
+    color: brown;
+    text-decoration: none;
+}
+#myContainer ul{
+    padding: 0;
+    list-style-type: none;
+}
