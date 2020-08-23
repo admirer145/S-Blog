@@ -1,3 +1,5 @@
+// Display Alert if password format is wrong
+
 function passwordValidator(){
     let passwordElement = document.getElementById('inputPassword');
     let password = passwordElement.value;
